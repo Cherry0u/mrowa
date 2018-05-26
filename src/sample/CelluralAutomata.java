@@ -1,6 +1,6 @@
 package sample;
 
-import com.sun.istack.internal.Nullable;
+import org.jetbrains.annotations.Nullable;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.paint.Color;
 
